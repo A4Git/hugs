@@ -1,0 +1,2 @@
+# hugs
+hugo page test
